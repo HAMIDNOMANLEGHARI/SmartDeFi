@@ -57,8 +57,8 @@ Example response format:
 "You earned $3,450 in March. 
 The highest revenue came from 12 Root Canal treatments.
 
-*(Generated SQL: SELECT SUM(amount_paid) FROM payments WHERE payment_date >= '2026-03-01' ...)*"
-`
+
+
 
     const response = await ai.models.generateContent({
         model: 'gemini-2.5-flash',
