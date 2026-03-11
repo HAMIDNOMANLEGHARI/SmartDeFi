@@ -3,7 +3,7 @@
 
 SmartDeFi is a specialized financial management platform designed exclusively for dental professionals. It empowers doctors to seamlessly track their practice's revenue, manage patient billing, and leverage a built-in AI assistant to query their financial data in natural language.
 
-**Live Demo:** [smart-de-fi.vercel.app](https://www.google.com/search?q=https://smart-de-fi.vercel.app)
+**Live Demo:** [smart-de-fi.vercel.app](https://smart-de-fi.vercel.app) #APP LINK
 
 ## Core Features
 
@@ -97,6 +97,4 @@ This project is optimized for deployment on the Vercel Platform.
 
 When deploying, ensure that you add all the environment variables listed above into your Vercel project settings (**Settings > Environment Variables**) before triggering the build. For more details, check out the Next.js deployment documentation.
 
----
 
-Would you like me to review the SQL query you used in Supabase to create those tables, to ensure the foreign keys and relationships are set up perfectly for your AI assistant to read?
