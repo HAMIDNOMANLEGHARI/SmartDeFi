@@ -1,5 +1,5 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+APP DETAIL:This is dental finance app for doctors to manage thier finances and also integrated by ai to let doctors to ask questions about thier revenues,patients etc.
 ## Getting Started
 
 First, run the development server:
