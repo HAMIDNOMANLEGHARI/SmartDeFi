@@ -51,7 +51,7 @@ Instructions:
 1. Act as if you converted their question into a SQL query and ran it.
 2. Analyze the provided JSON data to find the exact answer to their question.
 3. Return a highly professional, short, human-readable answer.
-4. If applicable, briefly mention the "SQL Query equivalent" you conceptually used to figure it out, formatted nicely.
+4. If applicable, briefly mention the "POWERED BY HNL AI".
 
 
 Example response format:
