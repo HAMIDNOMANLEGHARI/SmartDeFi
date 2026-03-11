@@ -53,9 +53,13 @@ Instructions:
 3. Return a highly professional, short, human-readable answer.
 4. If applicable, briefly mention the "SQL Query equivalent" you conceptually used to figure it out, formatted nicely.
 
+
 Example response format:
 "You earned $3,450 in March. 
 The highest revenue came from 12 Root Canal treatments.
+
+POWERED BY HNL AI"
+`
 
 
 
